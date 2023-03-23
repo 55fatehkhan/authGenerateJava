@@ -29,8 +29,8 @@ import java.io.FileNotFoundException;
 public class AuthController {
     
 
-    static String privateKey = "4YgiOzDzlQfWv2JRnUBv0Rw5OlW3pB8nAmKFeyMWFCtBoVDZef2sXazaCukprRUARgVBClrLPIZ51aH26seB8w=="; //
-    static String publicKey = "QaFQ2Xn9rF2s2grpKa0VAEYFQQpayzyGedWh9urHgfM=";
+    static String privateKey = "dXwaXaJDJteluzzvNhWS7FAaXoeyTEJkhwUtV5kyDQE="; //
+    static String publicKey = "UCIm0tWcd/Iy8Gvnqzxy0KPDa6Fk//yajrk/WEVZBpU=";
     static String kid = "api.greenreceipt.in|28843C15-9764-4245-92CF-7D236B855711|ed25519";
 
     @PostMapping("/generateauthheaderjava")
